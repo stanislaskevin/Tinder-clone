@@ -1,0 +1,4 @@
+npm i -g nodemon
+npm i cors
+nodemon server.js
+rest client (extension)
